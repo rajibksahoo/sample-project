@@ -8,6 +8,8 @@ public class SampleProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SampleProjectApplication.class, args);
+		//New code
+		System.out.println("New Feature Added");
 	}
 
 }
