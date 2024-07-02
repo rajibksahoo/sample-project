@@ -12,6 +12,8 @@ public class SampleProjectApplication {
 		System.out.println("New Feature Added");
 		//Code changes for Branch 1 
 		System.out.println("Branch 1 changes");
+		//Code changes for branch 2
+		System.out.println("Branch 2 changes");
 	}
 
 }
