@@ -10,6 +10,8 @@ public class SampleProjectApplication {
 		SpringApplication.run(SampleProjectApplication.class, args);
 		//New code
 		System.out.println("New Feature Added");
+		//Code changes for branch 2
+		System.out.println("Branch 2 changes");
 	}
 
 }
